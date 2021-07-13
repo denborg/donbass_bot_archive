@@ -1,0 +1,9 @@
+discord.py==1.4.1
+pymongo==3.11.0
+pytz==2020.1
+dnspython
+PyNaCl
+lxml==4.6.1
+beautifulsoup4==4.9.1
+requests==2.24.0
+wheel
