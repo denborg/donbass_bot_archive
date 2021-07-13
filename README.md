@@ -11,3 +11,4 @@
     and add mongodb url to the <nolink>config.py</nolink> file  
     `mongodb_url = 'MONGODB URL HERE'`
 
+and then run the <nolink>main.py</nolink> file
